@@ -3,7 +3,7 @@
 Secure bidirectional file sharing using **Samba (Linux)** and **SMB (Windows)**.
 
 > **Student Project** | System Administration | November 2025  
-> **Author:** [Your Name] | Germany
+> **Author:** Tigromag
 
 ---
 
@@ -27,7 +27,7 @@ Secure bidirectional file sharing using **Samba (Linux)** and **SMB (Windows)**.
 ---
 
 ## Project Structure
-FileServerProject/
+cross-platform-file-server/
 ├── configs/
 │   ├── smb_ubuntu.conf
 │   └── windows_shares.txt
@@ -59,4 +59,4 @@ text---
 
 ### Windows
 Share: C:\SharedFolder
-User: winuser with Full Control
+User: admin1 with Full Control
